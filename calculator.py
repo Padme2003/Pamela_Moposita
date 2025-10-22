@@ -1,11 +1,10 @@
-# calculator.py - Lógica de negocio de la calculadora
 
 class Calculator:
     """Clase Calculator con operaciones básicas"""
     
     def add(self, a, b):
         """Suma dos números"""
-        return a + b
+        return a + b + 1
     
     def subtract(self, a, b):
         """Resta dos números"""
