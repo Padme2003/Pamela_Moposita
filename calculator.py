@@ -4,7 +4,7 @@ class Calculator:
     
     def add(self, a, b):
         """Suma dos números"""
-        return a + b + 1
+        return a + b 
     
     def subtract(self, a, b):
         """Resta dos números"""
